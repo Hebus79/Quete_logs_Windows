@@ -1,11 +1,11 @@
 # Quete_logs_Windows
 
 
-1) Création vue personalisée dans l'observateur d'événements avec le nom : Surveillance DNS
+## 1) Création vue personalisée dans l'observateur d'événements avec le nom : Surveillance DNS
 
-![Logs Windows.png](https://github.com/Hebus79/Quetes_logs_Windows/blob/main/images/image1.png)
+![Logs Windows.png](https://github.com/Hebus79/Quete_logs_Windows/blob/main/image1.png)
 
-2) Configuration avec les critères demandés
+## 2) Configuration avec les critères demandés 
 
 * Niveaux à surveiller
 
@@ -38,9 +38,9 @@ DNS Client Events: Pour les événements côté client
 6001-6002: Problèmes de réplication DNS
 
 
-   ![Logs Windows.png](https://github.com/Hebus79/Quetes_logs_Windows/blob/main/images/image2.png)
+   ![Logs Windows.png](https://github.com/Hebus79/Quete_logs_Windows/blob/main/image2.png)
 
 
-3) Vue au format XML
+## 3) Vue au format XML
 
- ![Logs Windows.png](https://github.com/Hebus79/Quetes_logs_Windows/blob/main/images/image3.png)
+ ![Logs Windows.png](https://github.com/Hebus79/Quete_logs_Windows/blob/main/image3.png)
